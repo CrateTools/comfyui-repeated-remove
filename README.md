@@ -32,7 +32,7 @@ no dependencies needed
 
 #
 
-☕︎ Support: A small donation helps! ☕︎ https://buymeacoffee.com/nicolaslandajo
+☕︎ Support: A small donation helps! ☕︎ https://buymeacoffee.com/cratetools
 
 ⭐ Star this repository — it’s quick, free, and helps others discover the project
 
